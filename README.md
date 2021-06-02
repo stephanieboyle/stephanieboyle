@@ -2,10 +2,10 @@
 
 ---
 
-💻 &nbsp; Head of Data Delivery and Senior Instructor at CodeClan<br>
-🧠 &nbsp; Brain scientist turned Data Scientist<br>
-👩🏻‍🏫 &nbsp; Into teaching coding and all things data<br>
-🏔 &nbsp; Probably find me outdoors somewhere<br>
+💻 &nbsp; Head of Data Delivery and Senior Instructor at CodeClan <br>
+🧠 &nbsp; Brain scientist turned Data Scientist <br>
+👩🏻‍🏫 &nbsp; Into teaching coding and all things data <br>
+🏔 &nbsp; Probably find me outdoors somewhere <br>
 
 <br>
 
