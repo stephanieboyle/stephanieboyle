@@ -1,6 +1,5 @@
 ### Hi there, I'm Steph 👋
 
----
 
 💻 &nbsp; Head of Data Delivery and Senior Instructor at CodeClan <br>
 🧠 &nbsp; Brain scientist turned Data Scientist <br>
