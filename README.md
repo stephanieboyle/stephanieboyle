@@ -2,7 +2,8 @@
 
 
 💻 &nbsp; Head of Data Delivery and Senior Instructor at CodeClan <br>
-🧠 &nbsp; Brain scientist turned Data Scientist <br>
+📊 &nbsp; Programmer in pharma data science<br>
+🧠 &nbsp; Former brain scientist<br>
 👩🏻‍🏫 &nbsp; Into teaching coding and all things data <br>
 🏔 &nbsp; Probably find me outdoors somewhere <br>
 
