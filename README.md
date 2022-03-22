@@ -1,9 +1,7 @@
 ### Hi there, I'm Steph 👋
 
-
-💻 &nbsp; Head of Data Delivery and Senior Instructor at CodeClan <br>
-🧠 &nbsp; Brain Scientist turned Data Scientist<br>
-👩🏻‍🏫 &nbsp; Into teaching coding and all things data<br>
+🗺️ &nbsp; Currently: Data analytics team @komoot <br>
+💻 &nbsp; Former: Head of Data Delivery and Senior Instructor @CodeClan <br>
 🏔 &nbsp; Probably find me outdoors somewhere <br>
 
 <br>
