@@ -1,7 +1,7 @@
 ### Hi there, I'm Steph 👋
 
 🗺️ &nbsp; Currently: Data analytics team @komoot <br>
-💻 &nbsp; Former: Head of Data and Senior Instructor @CodeClan <br>
+💻 &nbsp; Former: Data lead & Senior Instructor @CodeClan <br>
 🏔 &nbsp; Probably find me outdoors somewhere <br>
 
 <br>
