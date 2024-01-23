@@ -1,6 +1,6 @@
 ### Hi there, I'm Steph 👋
 
-🗺️ &nbsp; Currently: Data analytics team @komoot <br>
+🗺️ &nbsp; Currently: Product analytics & Maps Squad @komoot <br>
 💻 &nbsp; Former: Data lead & Senior Instructor @CodeClan <br>
 🏔 &nbsp; Probably find me outdoors somewhere <br>
 
