@@ -1,6 +1,10 @@
-### Hi there, I'm Steph 👋
+**ANALYTICS LEADER · HIGHLANDS, SCOTLAND**
 
-⚡️ &nbsp; Currently: Reporting & Analytics Lead <br>
+# Hi, I’m Steph.
+
+I’m a data and analytics leader. I love helping people grow, working through tricky technical problems, and finding better ways to build data products.
+
+⚡️ &nbsp; Currently: Reporting & Analytics Lead @ SSEN Transmission <br>
 💻 &nbsp; Former: Senior Product Analyst @komoot, Data Team Lead @CodeClan <br>
 🏔 &nbsp; Probably find me outdoors somewhere <br>
 
