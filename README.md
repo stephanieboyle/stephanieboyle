@@ -1,24 +1,24 @@
-### Hi there, I'm Steph 👋
+# Hi, I'm Steph 👋
 
-⚡️ &nbsp; Currently: Reporting & Analytics Lead <br>
-💻 &nbsp; Former: Senior Product Analyst @komoot,  Data Team Lead @CodeClan <br>
-🏔 &nbsp; Probably find me outdoors somewhere <br>
+I'm an analytics leader who enjoys exploring data, building useful tools and helping people learn to code.
 
-<p>
-    <a href="https://twitter.com/_stephanieboyle" alt="Twitter logo"><img src="https://github.com/stephanieboyle/data_icons/blob/master/icons/social_icons/twitter-line-green.svg"></a>
-    <a href="https://www.linkedin.com/in/stephanieboyle9/" alt="Linkedin-logo"><img src="https://github.com/stephanieboyle/data_icons/blob/master/icons/social_icons/linkedin-box-line.svg"></a>
+Currently a Reporting & Analytics Lead; previously Senior Product Analyst at komoot and Data Team Lead at CodeClan. I'm making more room for hands-on projects alongside management.
 
-<br>
+## Things I've made
 
-### Tech & Tools 🧰
+- [Edinburgh bike hire explorer](https://github.com/stephanieboyle/bike_hire_shiny_app) — an R Shiny app for exploring historical journeys, station usage and cycling patterns.
+- [An introduction to R with Netflix data](https://github.com/stephanieboyle/intro_rstats_netflix) — a beginner-friendly coding session I wrote for CodeClan.
+- [Tour de France analysis](https://github.com/stephanieboyle/tour_de_france) — exploring cycling data with R and the tidyverse.
+- [Talks](https://github.com/stephanieboyle/talks) — materials from talks and teaching.
 
-  <img src="https://img.shields.io/badge/-SQL-white?style=flat&logo=postgresql&logoColor=0966A7">  <img src="https://img.shields.io/badge/-Python-white?style=flat&logo=python">  ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat&logo=jupyter)  ![dbt](https://img.shields.io/badge/-dbt-white?style=flat&logo=dbt)   <img src="http://img.shields.io/badge/-Rstats-white?style=flat&logo=R&logoColor=1655DB"> ![Tidyverse](https://img.shields.io/badge/-Tidyverse-white?style=flat&logo=Tidyverse&logoColor=1109AE)  ![Redshift](https://img.shields.io/badge/-Redshift-white?style=flat&logo=amazonaws&logoColor=FF9900) 
-  
- <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">   
-  
- ![Metabase](https://img.shields.io/badge/-Metabase-E7E6E3?style=flat&logo=Metabase)  ![Tableau](https://img.shields.io/badge/-Tableau-00083B?style=flat&logo=Tableau)  ![Redash](https://img.shields.io/badge/-Redash-white?style=flat&logo=Power%20BI&logoColor=orange) ![RShiny](https://img.shields.io/badge/-RShiny-white?style=flat&logo=R&logoColor=1655DB)    
+## What I'm exploring
 
+Returning to older projects, improving how they run and finding new questions to ask. I'm also exploring a knitting project: bringing together yarn, patterns and data to build something I'd use myself.
 
-<br>
-    
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stephanieboyle&theme=vue)
+## Tools I work with
+
+SQL · Python · R · tidyverse · dbt · Shiny · data visualisation
+
+Away from the screen, you'll probably find me outdoors or knitting. 🏔️ 🧶
+
+[Connect on LinkedIn](https://www.linkedin.com/in/stephanieboyle9/)
