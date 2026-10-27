@@ -4,7 +4,7 @@
 💻 &nbsp; Former: Senior Product Analyst @komoot, Data Team Lead @CodeClan <br>
 🏔 &nbsp; Probably find me outdoors somewhere <br>
 
-[![Website](https://img.shields.io/badge/-Website-0D9488?style=flat)](https://stephanieboyle.github.io/)
+🌐 [My website](https://stephanieboyle.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/stephanieboyle9/)
 
 <br>
@@ -16,7 +16,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat&logo=jupyter)
 ![dbt](https://img.shields.io/badge/-dbt-white?style=flat&logo=dbt)
 ![Rstats](https://img.shields.io/badge/-Rstats-white?style=flat&logo=R&logoColor=1655DB)
-![Tidyverse](https://img.shields.io/badge/-Tidyverse-white?style=flat&logo=Tidyverse&logoColor=1109AE)
+![Tidyverse](https://img.shields.io/badge/-Tidyverse-white?style=flat&logo=tidyverse&logoColor=1109AE)
 ![Redshift](https://img.shields.io/badge/-Redshift-white?style=flat&logo=amazonaws&logoColor=FF9900)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-117865?style=flat&logoColor=white)
 
