@@ -2,14 +2,17 @@
 
 # Hi, I’m Steph.
 
-I’m a data and analytics leader. I love helping people grow, working through tricky technical problems, and finding better ways to build data products.
+I’m a data and analytics leader. I love helping people grow, working through tricky technical problems, and finding better ways to build data products. <br>
+
+📍 Scottish Highlands <br>
 
 ⚡️ &nbsp; Currently: Reporting & Analytics Lead @ SSEN Transmission <br>
 💻 &nbsp; Former: Senior Product Analyst @komoot, Data Team Lead @CodeClan <br>
 🏔 &nbsp; Probably find me outdoors somewhere <br>
 
-🌐 [My website](https://stephanieboyle.github.io/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/stephanieboyle9/)
+🌐  [stephanieboyle.github.io](https://stephanieboyle.github.io/) <br>
+:email: [connect on LinkedIn](https://www.linkedin.com/in/stephanieboyle9/) <br>
+
 
 <br>
 
